@@ -208,7 +208,7 @@
                             <div class="diy-img-wrapper">
                                 <div class="diy-img-wrapper-content ui-resizable"
                                     style="left: 13px; width: 495px; top: 9px;"><img class="img-responsive"
-                                        src="https://sunnylandingpages.com/upload/368/pictures/368_2016052_115642.jpg"
+                                        src="https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/106257/venue-exterior-front-view-3.jpeg?isig=0&q=75"
                                         alt="">
                                     <div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se"
                                         style="z-index: 90; display: none;"></div>
